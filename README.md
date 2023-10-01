@@ -1,2 +1,2 @@
 # Data
-Data for CSCI 112
+Data for course CSCI 112
